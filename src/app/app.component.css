@@ -1,0 +1,15 @@
+p {
+  font-family: Lato;
+  padding:100px;
+  background-color:blue;
+  position:static;
+  border-radius: 100px;
+  border-top-left-radius:2050px;
+  border-bottom-left-radius:2050px;
+}
+span{
+  position: relative;
+  padding:25px;
+  background-color:blanchedalmond;
+  border-radius: 25px;
+}
